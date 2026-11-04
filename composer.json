@@ -1,5 +1,5 @@
 {
-  "name": "dmf/neos-capo",
+  "name": "3m5/neos-capo",
   "description": "Adds automatic capo <head> sorting for Neos.",
   "type": "neos-package",
   "version": "1.0.0",
