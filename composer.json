@@ -1,8 +1,8 @@
 {
   "name": "3m5/neos-capo",
-  "description": "Adds automatic capo <head> sorting for Neos.",
+  "description": "Automatic capo <head> sorting for Neos.",
+  "keywords": ["neos", "capo", "head", "seo"],
   "type": "neos-package",
-  "version": "1.0.0",
   "license": "GPL-2.0-or-later",
   "authors": [],
   "require": {
